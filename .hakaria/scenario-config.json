@@ -1,0 +1,17 @@
+{
+  "scenarioId": "junior-first-ticket",
+  "targetFiles": [
+    {
+      "path": "src/pages/contact.tsx",
+      "description": "お問い合わせページコンポーネント"
+    }
+  ],
+  "expectedChanges": [
+    {
+      "file": "src/pages/contact.tsx",
+      "description": "メールアドレスを support@old-example.com から support@example.com に修正",
+      "required": true
+    }
+  ],
+  "reviewerNpcId": "sato"
+}
