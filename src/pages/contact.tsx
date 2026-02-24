@@ -6,8 +6,8 @@ export default function ContactPage() {
         ご質問やご要望は下記メールアドレスまでお送りください。
       </p>
       <p className="email">
-        <a href="mailto:support@example.com">
-          support@example.com
+        <a href="mailto:support@old-example.com">
+          support@old-example.com
         </a>
       </p>
       <p className="note">
